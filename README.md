@@ -1,3 +1,3 @@
 # OBSIP
 
-Landing page using Html css
+Landing page using Html CSS
